@@ -1,14 +1,21 @@
-Créer une base de donnée stockée dans un fichier externe. Cela peut être pour stocker des contacts, des clients, des entreprises…  
-Identifiant automatique ou non
-Nom, prénom, statut, téléphone, site web, ville...
+Exercice en groupe
 
- Vous devez pouvoir interagir avec ce script pour :
-Créer un nouveau contact
-Rechercher un / des contacts
-Modifier un contact
-Supprimer un contact
+Créez un script pour gérer une base de données. Cela peut être pour stocker des clients, des contacts ou des entreprises. Les informations doivent être stockées dans un fichier externe.
 
+Les étapes :
 
-Supplément :
-Vérifier si le site web du contact est en ligne ou non
-// Connaitre la météo selon la ville du contact
+Créer un nouveau contact :
+- Ajouter le nom, prénom et statut.
+- Il est également nécessaire d'inclure un site web, existant ou non.
+
+Modifier un contact:
+- Demander les informations à modifier 
+- Sauvgarder la modification
+
+Supprimer un contact.
+
+Rechercher un contact :
+- Par nom, prénom, etc.
+
+Vérifier si le site web d'un contact:
+- Savoir si il est en ligne ou non
