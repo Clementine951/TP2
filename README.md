@@ -6,16 +6,16 @@ Les étapes :
 
 Créer un nouveau contact :
 - Ajouter le nom, prénom et statut.
-- Il est également nécessaire d'inclure un site web, existant ou non.
+- Ajouter un site web, existant ou non.
 
-Modifier un contact:
-- Demander les informations à modifier 
-- Sauvgarder la modification
+Modifier un contact :
+- Demander les informations à modifier.
+- Sauvegarder la modification.
 
 Supprimer un contact.
 
 Rechercher un contact :
 - Par nom, prénom, etc.
 
-Vérifier si le site web d'un contact:
-- Savoir si il est en ligne ou non
+Vérifier un site web :
+- Savoir s'il est en ligne ou non.
